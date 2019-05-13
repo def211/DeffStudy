@@ -17,7 +17,6 @@ class JavaArray{
 	public static void main(String[] ags){
 		int t = 3;
 		t+=1;
-		<<4;
 		System.out.println(t);
 		JavaArray ja = new JavaArray();
 
