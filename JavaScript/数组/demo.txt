@@ -1,0 +1,17 @@
+
+数组
+var arr = [1,2,3,4];
+arr.length;//数组的长度
+arr.indexOf();//搜索指定元素的位置
+arr.slice(0,3);//截取部分数组
+arr.push(''，''，'');//向数据末尾追加若干元素
+arr.pop();//删除数组最后一个
+arr.unshift()// 头部追加若干元素
+arr.shift()// 删除头部第一个元素
+arr.sort();//默认顺序排序
+arr.reverse();//反转
+arr.splice(start,delete num,add value);//
+arr.concat();//连接数组形成新的数组
+arr.join();//数组每个元素用指定的符号连接起来
+多维数组
+

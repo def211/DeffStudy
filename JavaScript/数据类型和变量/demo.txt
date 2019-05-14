@@ -18,8 +18,6 @@ isNan(Nan) //true
 null 和 undefined
 
 
-数组
-
 
 对象
 
@@ -28,22 +26,9 @@ null 和 undefined
 
 
 
-C
-C
-
-strict 模式 
+strict 模式
 strict 模式
 A
-A 
+A
 strict 模式
 strict
-
-
-
-
-
-
-
-
-
-
