@@ -1,0 +1,8 @@
+对象
+var = xiaoming{
+  name:"小明"，
+  sex:"男"
+};
+xiaoming.name;
+“name” in xiaoming; //判断属性是否存在 “这个属性不一定是xiaoming的可能是继承得到的”
+delete xiaoming.name;

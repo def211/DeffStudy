@@ -19,9 +19,6 @@ null 和 undefined
 
 
 
-对象
-
-
 变量
 
 
